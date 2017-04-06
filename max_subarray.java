@@ -8,7 +8,7 @@ class Codechef
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here 
-		int n,i,y,z=0,sum,max=0,p=0,q=0;
+		int n,i,y,z=0,sum,max=-999999,p=0,q=0;
 		Scanner sc=new Scanner(System.in);
 		n=sc.nextInt();
 		int a[]=new int[n];
