@@ -14,7 +14,7 @@ class Codechef
 		int a[]=new int[n];
 		for(i=0;i<n;i++)
 		  a[i]=sc.nextInt();
-		while(n!=1){
+		while(n!=0){
 		    sum=0;
 		    for(y=i=z;i<n;i++)
 		      sum+=a[i];
